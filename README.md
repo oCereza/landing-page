@@ -3,4 +3,6 @@ Bem-vindo ao projeto **Landing Page**, um site simples para capturar novos clien
 
 ## Como acessar
 
--Clone o repositório clicando no  botão "<>Code", ou acesse diretamente pelo link: https://landingpagetest.netlify.app/
+-Clone o repositório clicando no  botão "<>Code", ou acesse diretamente pelo link: 
+
+https://landingpagetest.netlify.app/
